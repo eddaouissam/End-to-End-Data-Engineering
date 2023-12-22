@@ -3,4 +3,4 @@ This data engineering project involves retrieving a CSV file, creating a Postgre
 
 # Architecture
 
-![image](/Users/issameddaou/Desktop/LOCAL-Data-Engineering-end-to-end/img.png)
+![image](img.png)
